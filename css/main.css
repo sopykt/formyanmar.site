@@ -73,6 +73,10 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Roboto', sans-serif;
 }
 
+.logotext {
+	color : #73359b;
+}
+
 .slider-btn {
 	background-color:#73359b;
 	color: #FFF;
