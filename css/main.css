@@ -73,6 +73,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Roboto', sans-serif;
 }
 
+#main-carousel .carousel-inner .item .carousel-caption .HeaderText {
+	color: white;
+	font-weight: bold;
+	background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(104, 55, 158, 0.7);
+  padding: 10px;
+}
+
 .logotext {
 	color : #73359b;
 	font-weight: bold;
