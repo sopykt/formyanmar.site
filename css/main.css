@@ -76,6 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 .logotext {
 	color : #73359b;
 	font-weight: bold;
+	word-break: keep-all;
 }
 
 .slider-btn {
