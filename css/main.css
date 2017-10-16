@@ -81,6 +81,13 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px;
 }
 
+#services .container .row .col-sm-8 p {
+	color: white;
+	font-weight: bold;
+	background: rgba(104, 55, 158, 0.7);
+	padding: 10px;
+}
+
 .logotext {
 	color : #73359b;
 	font-weight: bold;
@@ -706,7 +713,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-member {
 	height:430px;
-	background-color:#43484E;
+	background-color:#428bca;
 	border: 1px solid #43484E;
 	color: #f6f6f6;
 	padding: 25px;
